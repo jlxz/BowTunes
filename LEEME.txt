@@ -1,0 +1,41 @@
+nombre: BowTunes
+lenguaje: AppleScript
+autor: joseluisdgz
+web: http://www.joseluisdgz.com
+código (github): http://github.com/joseluisdgz/BowTunes
+licencia: http://www.opensource.org/licenses/mit-license.php
+versión: 1.0
+
+# 1. Instalación
+Para que este script funcione correctamente es necesario tener instalado Bowtie (http://bowtieapp.com/) e iTunes.
+
+Bowtie es una aplicación que nos permite mostrar información de la canción que se está reproduciendo en iTunes en el escritorio (tiene muchos themes muy chulos) e incluso controlar la reproducción y puntuar los temas. También envía las canciones que escuchamos a last.fm
+
+Copia BowTunes.app a tu carpeta Aplicaciones.
+
+# 2. Uso
+Al ejecutar BowTunes se abrirá iTunes de manera silenciosa, sin mostrar la ventana principal y minimizado. Y comenzará a reproducir donde se quedó. Y acto seguido se abrirá Bowtie.
+
+Normalmente hay que abrir las dos aplicaciones una a una. De esta forma abriendo BowTunes se abre todo a la vez de forma cómoda.
+
+# 3. Credits
+
+Original idea and icon, thanks to: 
+* http://louis-sawtell.com/content/unify-bowtie-and-growltunes-itunes-plus-custom-os-x-icon
+
+All credits go to him.
+
+* **pattern used on Dmg background** thanks to [Sedma Gallery at DeviantArt](http://sedma.deviantart.com/art/152-Seamless-Black-Patterns-199723534)
+
+
+# 4. Licencia
+
+The MIT License (MIT)
+Copyright (c) <2012> <joseluisdgz>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
